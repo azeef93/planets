@@ -1,2 +1,4 @@
 The 4th planet in the solar system.
 Presence of life: Affirmative
+Type of life: Humanoids, Elves
+Elemental Manipulation: Fire, Earth, Wind, Water
